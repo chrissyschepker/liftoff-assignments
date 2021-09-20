@@ -7,4 +7,4 @@ We want to you to create a set of presentation slides summarizing your project.
 ## Submission Instructions
 
 ### Presentation
-Upload a .PDF of your presentation here for review.
+[capstone-presentation-ChrissySchepker.pdf](https://github.com/chrissyschepker/liftoff-assignments/files/7197863/capstone-presentation-ChrissySchepker.pdf)
